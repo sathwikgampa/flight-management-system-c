@@ -1,21 +1,40 @@
-# flight-management-system-c
-Course-based project in C using linked lists to manage flight and passenger data.
+# Flight Management System (C Project)
 
-# ✈ Flight Management System (in C)
+📄 **Project Title**: Flight Management System  
+📘 **Course**: Data Structures Laboratory (22ES2CS102)  
+🏫 **Institution**: VNR Vignana Jyothi Institute of Engineering and Technology  
+👨‍💻 **Team Members**:
+- Ram Das (24071A1281)
+- D. Sathwik (24071A1282)
+- Praneeth (24071A1283)
+- G. Sathwik (24071A1284)
+- G. Nithin (24071A1285)
 
-A dynamic C program to manage flight records and passenger bookings using singly linked lists. Built as a course project for Data Structures Lab.
+## 📌 Project Description
 
-## Features
-- Add new flights with route info
-- Book passengers with route validation
-- Display all flights and passengers
-- Implements dynamic memory & linked list
+This project is a **menu-driven flight management system in C**, developed using:
+- Structures
+- Singly linked lists
+- Dynamic memory allocation
 
-## Technologies
-- Language: C
-- Concepts: Structures, Linked Lists, Memory Allocation
+### ✈️ Features:
+- Add flights with flight number, source, and destination
+- Book passengers under specific flights
+- Display all flights with corresponding passenger details
+- Basic validation: ensures passenger route matches flight route
 
-## How to Run
-```bash
-gcc flight.c -o flight
-./flight
+## 🧠 Concepts Used
+- Linked lists
+- Structures in C
+- Pointers and dynamic memory (`malloc`)
+- Menu-driven programming
+
+## 🖥️ Output Screenshots & Code
+Check the full project report here:  
+📄 [Flight Management System Report (PDF)](./24071A1281-85%20DS%20CBP.pdf)
+
+## ✅ Status
+Completed in **May 2025** as part of the first-year curriculum.
+
+---
+
